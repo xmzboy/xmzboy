@@ -1,7 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+# Hi there, I'm [Ivan](https://vk.com/id76852272) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
 <!--
 **xmzboy/xmzboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

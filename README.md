@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/id76852272" target="_blank">𝘅𝗺𝘇𝗯𝗼𝘆</a> 
+<!-- <h1 align="center">Hi there, I'm <a href="https://vk.com/id76852272" target="_blank">𝘅𝗺𝘇𝗯𝗼𝘆</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">Computer science student</h3> -->
 ### ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 <!--
 **xmzboy/xmzboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

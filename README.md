@@ -4,7 +4,7 @@
 # Hi there, I'm [𝘅𝗺𝘇𝗯𝗼𝘆](https://vk.com/id76852272)
 ![](https://github.com/blackcater/blackcater/raw/main/images/banner.gif) 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xmzboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **xmzboy/xmzboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

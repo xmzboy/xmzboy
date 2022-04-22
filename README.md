@@ -13,4 +13,3 @@
 - 🐍 I’m currently learning Python
 - 💬 Ask me about live in Russia 😂😭
 - 📫 How to reach me: [tap this](https://vk.com/id76852272)
-- 😄 Pronouns: bip-boop

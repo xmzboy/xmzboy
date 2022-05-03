@@ -1,7 +1,6 @@
 # Hi there, I'm [𝘅𝗺𝘇𝗯𝗼𝘆](https://vk.com/id76852272)
 ![](https://github.com/blackcater/blackcater/raw/main/images/banner.gif) 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT+student+from+St.+Petersburg)](https://git.io/typing-svg)
-### About me:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me+:)](https://git.io/typing-svg)
 - 🌒 I’m currently working on gasanalyser for ISS ... and designing my secret pet-project
 - 🐍 I’m currently learning Python
 - 💬 Ask me about live in Russia 😂😭

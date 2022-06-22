@@ -1,7 +1,7 @@
 # Hi there, I'm [𝘅𝗺𝘇𝗯𝗼𝘆](https://vk.com/id76852272)!
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me+:)](https://git.io/typing-svg)
 - 🌒 I’m currently working on gasanalyser for ISS ...
-- 🐍 I’m currently learning asyncio, fastapi and react.js
+- 🐍 I’m currently learning asyncio, fastapi and sqlalchemy
 - 📫 How to reach me: [tap this](https://vk.com/id76852272)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xmzboy)](https://git.io/streak-stats)

@@ -1,5 +1,4 @@
 # Hi there, I'm [𝘅𝗺𝘇𝗯𝗼𝘆](https://vk.com/id76852272)!
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=About+me+:)](https://git.io/typing-svg)
 - 🐍 I’m currently learning asyncio, aiohttp and js
 - 📫 How to reach me: [tap this](https://vk.com/id76852272)
 

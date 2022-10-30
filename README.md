@@ -1,4 +1,4 @@
-# Hi there, I'm [𝘅𝗺𝘇𝗯𝗼𝘆](https://vk.com/id76852272)!
+## Hi there, I'm [𝘅𝗺𝘇𝗯𝗼𝘆](https://vk.com/id76852272)!
 - 🐍 I’m currently learning asyncio, aiohttp and js
 - 📫 How to reach me: [tap this](https://vk.com/id76852272)
 
